@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'jorsek', // Usually your GitHub org/user name.
+  organizationName: 'your-org', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
 //    algolia: {
@@ -23,7 +23,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Jorsek, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()}.`,
     },
   },
   presets: [
