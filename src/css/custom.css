@@ -46,3 +46,7 @@ table {
   font-family: monospace;
   white-space: pre-wrap;
 }
+
+.markdown {
+    --ifm-h1-vertical-rhythm-top: 0; 
+}
