@@ -47,6 +47,17 @@ table {
   white-space: pre-wrap;
 }
 
+.ph {
+    display: inline;
+    background-color: var(--ifm-pre-background);
+    border-radius: var(--ifm-pre-border-radius);
+    color: var(--ifm-pre-color);
+    font: var(--ifm-code-font-size)/var(--ifm-pre-line-height) var(--ifm-font-family-monospace);
+    word-wrap: normal;
+    font-family: monospace;
+    white-space: pre-wrap;
+}
+
 .markdown {
     --ifm-h1-vertical-rhythm-top: 0; 
 }
