@@ -43,13 +43,13 @@ module.exports = {
       },
     ],
   ],
-  plugins: [
-    [require.resolve('@cmfcmf/docusaurus-search-local'), {
-        indexDocs: true,
-        docsRouteBasePath: '/',
-        indexDocSidebarParentCategories: 3,
-        indexPages: false,
-        language: "en"
-    }]
-  ],
+//   plugins: [
+//     [require.resolve('@cmfcmf/docusaurus-search-local'), {
+//         indexDocs: true,
+//         docsRouteBasePath: '/',
+//         indexDocSidebarParentCategories: 3,
+//         indexPages: false,
+//         language: "en"
+//     }]
+//   ],
 };
