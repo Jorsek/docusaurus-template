@@ -64,3 +64,8 @@ table {
 .markdown {
     --ifm-h1-vertical-rhythm-top: 0; 
 }
+
+/* Wrap long lines of text in codeblocks */
+code {
+  white-space: pre-wrap;
+}
