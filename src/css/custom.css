@@ -65,6 +65,15 @@ table {
     --ifm-h1-vertical-rhythm-top: 0; 
 }
 
+.anchor_top_offset::before {
+    top: calc(var(--ifm-navbar-height) * -1);
+    content: '';
+    display: block;
+    height: calc(var(--ifm-navbar-height));
+    margin-top: calc(var(--ifm-navbar-height) * -1);
+    visibility: hidden;
+}
+
 /* Wrap long lines of text in codeblocks */
 code {
   white-space: pre-wrap;
