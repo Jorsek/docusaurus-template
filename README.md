@@ -1,2 +1,2 @@
-# A Jorsek template for Docusaurus
+# A Heretto template for Docusaurus
 
