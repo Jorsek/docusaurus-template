@@ -36,6 +36,10 @@ table {
     margin-bottom: 0px;
 }
 
+.ph.cmd {
+  font-family: revert;
+}
+
 .pre {
   background-color: var(--ifm-pre-background);
   border-radius: var(--ifm-pre-border-radius);
