@@ -38,6 +38,7 @@ table {
 
 .ph.cmd {
   font-family: revert;
+  background-color: unset;
 }
 
 .pre {
