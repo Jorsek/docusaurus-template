@@ -13,7 +13,7 @@
   "dependencies": {
     "@docusaurus/core": "latest",
     "@docusaurus/preset-classic": "latest",
-    "@mdx-js/react": "latest",
+    "@mdx-js/react": "^1.6.21",
     "clsx": "latest",
     "react": "latest",
     "react-dom": "latest"
