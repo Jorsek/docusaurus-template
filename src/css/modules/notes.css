@@ -118,9 +118,15 @@ div.note * {
   color: #f5f6f7;
 }
 
+div.note > .ph:not(.b):not(.i):not(.u) {
+    background-color: inherit;
+}
+
 /* Fix issues with background colors */
 div.note code.ph.codeph,
-div.note div.pre.codeblock {
+div.note div.pre.codeblock 
+{
   color: #f5f6f7;
   background-color: rgb(72, 77, 91);
 }
+

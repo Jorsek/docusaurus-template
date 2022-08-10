@@ -110,3 +110,4 @@ build/
 docs/
 sidebars.js
 package-lock.json
+.DS_Store
