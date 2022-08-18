@@ -118,6 +118,7 @@ div.note * {
   color: #f5f6f7;
 }
 
+
 div.note > span.ph:not(.b):not(.i):not(.u) {
     background-color: inherit;
 }
